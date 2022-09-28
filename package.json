@@ -1,0 +1,25 @@
+{
+  "name": "js-project-asynchronism",
+  "version": "1.0.0",
+  "description": "Project to practice asynchronism.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LopezJoseMarcel/JS-Project-asynchronism.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LopezJoseMarcel/JS-Project-asynchronism/issues"
+  },
+  "homepage": "https://github.com/LopezJoseMarcel/JS-Project-asynchronism#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "node-fetch": "^3.2.10"
+  }
+}
